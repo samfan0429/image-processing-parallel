@@ -1,4 +1,5 @@
 # image-processing-parallel
-Original for image_copy.c: https://github.com/abhijitnathwani/image-processing
+QDBMP: http://qdbmp.sourceforge.net/ 
 
-Uses QDBMP: http://qdbmp.sourceforge.net/ 
+Author: Sun Gyu Park
+
